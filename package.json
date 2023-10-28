@@ -1,30 +1,30 @@
 {
-  "name": "@pikulinpw/ckeditor5-fullscreen",
-  "version": "1.0.1",
-  "description": "Maximize your CKEditor 5 editing space with the FullScreen plugin. Offering a seamless way to expand the editor to full screen, it ensures an uninterrupted and expansive writing canvas.",
-  "main": "src/FullScreen.js",
+  "name": "@pikulinpw/ckeditor5-resizableheight",
+  "version": "1.0.0",
+  "description": "Optimize your CKEditor 5 editing space with the ResizableHeight plugin. This plugin adds the ability to set the height of the editor and also change its size. Adds the ability to resize.",
+  "main": "src/ResizableHeight.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pikulinpw/ckeditor5-fullscreen.git"
+    "url": "https://github.com/pikulinpw/ckeditor5-resizableheight.git"
   },
   "keywords": [
     "ckeditor5",
     "plugin",
-    "fullscreen",
-    "maximize",
-	"full",
-	"screen",
+    "resizableheight",
+    "resize",
+	"height",
+	"resizable",
     "editor"
   ],
   "author": "Pikulin.pw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pikulinpw/ckeditor5-fullscreen/issues"
+    "url": "https://github.com/pikulinpw/ckeditor5-resizableheight/issues"
   },
-  "homepage": "https://github.com/pikulinpw/ckeditor5-fullscreen#readme",
+  "homepage": "https://github.com/pikulinpw/ckeditor5-resizableheight#readme",
   "dependencies": {
     "@ckeditor/ckeditor5-core": ">=27.1.0",
     "@ckeditor/ckeditor5-ui": ">=27.1.0"
